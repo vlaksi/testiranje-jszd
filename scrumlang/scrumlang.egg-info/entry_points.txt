@@ -1,0 +1,2 @@
+[textx_languages]
+scrumlang = src:scrumlang_language

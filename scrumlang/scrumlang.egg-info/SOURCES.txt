@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+scrumlang.egg-info/PKG-INFO
+scrumlang.egg-info/SOURCES.txt
+scrumlang.egg-info/dependency_links.txt
+scrumlang.egg-info/entry_points.txt
+scrumlang.egg-info/not-zip-safe
+scrumlang.egg-info/requires.txt
+scrumlang.egg-info/top_level.txt
+src/__init__.py
+src/scrumlang.tx
